@@ -12,7 +12,8 @@ This project involves building a lightweight and transparent machine learning mo
 
 ## Dataset
 The dataset used in this project was sourced from Kaggle and contains over 650,000 labeled URLs.
-<a href="https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset">Download the dataset</a>
+<a href="https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset">
+Download the dataset</a>
 
 ## Tech Stack
 • Python (no external ML libraries)
